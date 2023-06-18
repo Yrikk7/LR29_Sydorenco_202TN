@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR29_Sydorenco_202TN", "LR29_Sydorenco_202TN\LR29_Sydorenco_202TN.csproj", "{304C7E4A-4C29-4304-894E-79D7DA4181EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304C7E4A-4C29-4304-894E-79D7DA4181EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304C7E4A-4C29-4304-894E-79D7DA4181EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304C7E4A-4C29-4304-894E-79D7DA4181EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304C7E4A-4C29-4304-894E-79D7DA4181EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03B6A95C-CE4E-411A-95F6-27B5107AA205}
+	EndGlobalSection
+EndGlobal
